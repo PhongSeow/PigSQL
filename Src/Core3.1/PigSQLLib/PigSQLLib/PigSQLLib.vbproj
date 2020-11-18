@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>PigSQLLib</RootNamespace>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Seow Phong</Authors>
+    <Company>Seow Phong Studio</Company>
+    <Copyright>Copyright © 2020 Seow Phong</Copyright>
+  </PropertyGroup>
+
+</Project>
